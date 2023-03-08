@@ -1,0 +1,1 @@
+Repositorio para armazenamento de programas em python e versionamento utilizando o git e github.
